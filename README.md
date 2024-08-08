@@ -30,11 +30,11 @@ This will start the development server, usually accessible at http://localhost:3
 
 The server component is built with Node.js and Express, providing RESTful APIs and managing communication with databases and external services. Key directories and files include:
 
-`controllers/`: Contains files that define functions to handle requests.
-`models/`: Defines data models for database interactions.
-`routes/`: Sets up routes for incoming HTTP requests.
-`server.js`: The main server file that configures and starts the server.
-`config/`: Includes configuration files, potentially for different environments.
+- `controllers/`: Contains files that define functions to handle requests.
+- `models/`: Defines data models for database interactions.
+- `routes/`: Sets up routes for incoming HTTP requests.
+- `server.js`: The main server file that configures and starts the server.
+- `config/`: Includes configuration files, potentially for different environments.
 
 #### Setup and Running
 
