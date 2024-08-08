@@ -1,6 +1,6 @@
 # Oncore Files
 
-Welcome to the GitHub repository for **Oncore Health**, an AI-enabled workflow automation platform dedicated to enhancing oncology care. This repository contains the frontend and server components of our platform, aimed at reducing administrative burdens in oncology care settings.
+Welcome to part of the project I worked on for **Oncore Health**, an AI-enabled workflow automation platform dedicated to enhancing oncology care. This repository contains the frontend and server components of the platform, aimed at reducing administrative burdens in oncology care settings.
 
 ## Repository Structure
 
