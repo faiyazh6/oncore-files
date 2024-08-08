@@ -1,0 +1,6 @@
+[submodule "oncore-frontend"]
+	path = oncore-frontend
+	url = https://github.com/faiyazh6/oncore-frontend.git
+[submodule "oncore-server-public"]
+	path = oncore-server-public
+	url = https://github.com/faiyazh6/oncore-server-public.git
